@@ -1,0 +1,12 @@
+"garena"
+{
+	"base"				"fretta13"
+	"title"				"gArena"
+	"menusystem"		"1"
+	
+	"selectable"		"1"
+	"fretta_maps"
+	{
+		"1"	"dm_"
+	}
+}
